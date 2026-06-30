@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Hybrid Cloud Capstone</title>
+</head>
+
+<body>
+
+<h1>AWS Hybrid Cloud Application</h1>
+
+<p>
+This application is running on:
+</p>
+
+<ul>
+<li>Amazon ECS Fargate</li>
+<li>Docker Container</li>
+<li>Infrastructure as Code</li>
+</ul>
+
+<h2>Status: Running Successfully ✅</h2>
+
+</body>
+
+</html>
